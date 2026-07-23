@@ -42,9 +42,9 @@ This repository contains a collection of Python projects ranging from beginner t
 ```
 Python-Project/
 │
-├── Project 1
-├── Project 2
-├── Project 3
+├── task 1
+├── task 2
+├── task 3
 ├── Automation Scripts
 ├── Utility Programs
 ├── README.md
